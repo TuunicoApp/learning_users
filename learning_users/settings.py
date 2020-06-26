@@ -27,7 +27,9 @@ SECRET_KEY = '+#nogl(e9ks+%2ty$i_du0ruouw&j=md(b15v8vqvf!0dr%319'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'tuunicoapp.pythonanywhere.com'
+]
 
 
 # Application definition
